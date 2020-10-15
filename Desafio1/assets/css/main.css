@@ -1,0 +1,51 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/oslap\/Desktop\/Clases\%20G4\/Clase\%2014\/Desafio14102020\/Desafio1\/assets\/sass\/layout\/_cajas\.scss}line{font-family:\000034}}
+.box__caja1, .box__caja2, .box__caja3, .box__caja4 {
+  width: 25%;
+  padding: 5px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  display: inline-block;
+  position: absolute; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/oslap\/Desktop\/Clases\%20G4\/Clase\%2014\/Desafio14102020\/Desafio1\/assets\/sass\/layout\/_cajas\.scss}line{font-family:\0000312}}
+body {
+  margin: 0;
+  padding: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/oslap\/Desktop\/Clases\%20G4\/Clase\%2014\/Desafio14102020\/Desafio1\/assets\/sass\/layout\/_cajas\.scss}line{font-family:\0000316}}
+.main {
+  margin: 5px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/oslap\/Desktop\/Clases\%20G4\/Clase\%2014\/Desafio14102020\/Desafio1\/assets\/sass\/layout\/_cajas\.scss}line{font-family:\0000319}}
+.navbar {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  position: fixed;
+  background-color: green; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/oslap\/Desktop\/Clases\%20G4\/Clase\%2014\/Desafio14102020\/Desafio1\/assets\/sass\/layout\/_cajas\.scss}line{font-family:\0000327}}
+.box {
+  width: 100%;
+  border: 2px solid #808080;
+  height: 100px;
+  margin: auto;
+  display: block;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  /* position: relative; */ }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/oslap\/Desktop\/Clases\%20G4\/Clase\%2014\/Desafio14102020\/Desafio1\/assets\/sass\/layout\/_cajas\.scss}line{font-family:\0000335}}
+  .box__caja1 {
+    left: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/oslap\/Desktop\/Clases\%20G4\/Clase\%2014\/Desafio14102020\/Desafio1\/assets\/sass\/layout\/_cajas\.scss}line{font-family:\0000339}}
+  .box__caja2 {
+    left: 25%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/oslap\/Desktop\/Clases\%20G4\/Clase\%2014\/Desafio14102020\/Desafio1\/assets\/sass\/layout\/_cajas\.scss}line{font-family:\0000343}}
+  .box__caja3 {
+    left: 50%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/oslap\/Desktop\/Clases\%20G4\/Clase\%2014\/Desafio14102020\/Desafio1\/assets\/sass\/layout\/_cajas\.scss}line{font-family:\0000347}}
+  .box__caja4 {
+    left: 75%; }
+
+/*# sourceMappingURL=main.css.map */
