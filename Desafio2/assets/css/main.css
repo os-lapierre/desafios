@@ -1,0 +1,35 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/oslap\/Desktop\/Clases\%20G4\/Clase\%2014\/Desafio14102020\/Desafio2\/assets\/sass\/layout\/_square\.scss}line{font-family:\000031}}
+.square__red, .square__green, .square__blue {
+  width: 200px;
+  height: 200px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/oslap\/Desktop\/Clases\%20G4\/Clase\%2014\/Desafio14102020\/Desafio2\/assets\/sass\/layout\/_square\.scss}line{font-family:\000035}}
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/oslap\/Desktop\/Clases\%20G4\/Clase\%2014\/Desafio14102020\/Desafio2\/assets\/sass\/layout\/_square\.scss}line{font-family:\0000311}}
+.square__red {
+  background-color: rgba(255, 0, 0, 0.5);
+  position: absolute;
+  z-index: 1000;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/oslap\/Desktop\/Clases\%20G4\/Clase\%2014\/Desafio14102020\/Desafio2\/assets\/sass\/layout\/_square\.scss}line{font-family:\0000317}}
+.square__green {
+  background-color: rgba(0, 255, 0, 0.5);
+  left: 25px;
+  position: absolute;
+  top: 25px;
+  z-index: 100;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/oslap\/Desktop\/Clases\%20G4\/Clase\%2014\/Desafio14102020\/Desafio2\/assets\/sass\/layout\/_square\.scss}line{font-family:\0000325}}
+.square__blue {
+  background-color: rgba(0, 0, 255, 0.5);
+  left: 50px;
+  position: absolute;
+  top: 50px;
+}
+
+/*# sourceMappingURL=main.css.map */

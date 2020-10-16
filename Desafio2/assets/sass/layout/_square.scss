@@ -1,0 +1,32 @@
+%cuadrado {
+    width: 200px;
+    height: 200px;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+    }
+.square {
+
+    &__red {
+        @extend %cuadrado;
+        background-color: rgba(255, 0, 0, .5);
+        position: absolute;
+        z-index: 1000;
+    }
+    &__green {
+        @extend %cuadrado;
+        background-color: rgba(0, 255, 0, .5);
+        left: 25px;
+        position: absolute;
+        top: 25px;
+        z-index: 100;
+    }
+    &__blue {
+        @extend %cuadrado;
+        background-color: rgba(0, 0, 255, .5);
+        left: 50px;
+        position: absolute;
+        top: 50px;
+    }
+} 
