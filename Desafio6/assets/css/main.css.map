@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": ";AACI,aAAO;EACH,QAAQ,EAAE,QAAQ;;AAEtB,aAAO;EACH,QAAQ,EAAE,QAAQ;EAClB,MAAM,EAAE,IAAI;EACZ,KAAK,EAAE,IAAI;EACX,WAAW,EAAE,OAAO;EACpB,UAAU,EAAE,KAAK",
+"sources": ["../sass/layout/_ribbon2.scss"],
+"names": [],
+"file": "main.css"
+}
