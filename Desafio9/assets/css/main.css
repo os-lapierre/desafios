@@ -1,0 +1,41 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/oslap\/Desktop\/Clases\%20G4\/Clase\%2014\/Desafio14102020\/Desafio9\/assets\/sass\/layout\/_html\.scss}line{font-family:\000031}}
+body {
+  margin-left: 100px;
+  margin-right: 100px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/oslap\/Desktop\/Clases\%20G4\/Clase\%2014\/Desafio14102020\/Desafio9\/assets\/sass\/layout\/_html\.scss}line{font-family:\000035}}
+.nav {
+  background-color: black;
+  height: 50px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/oslap\/Desktop\/Clases\%20G4\/Clase\%2014\/Desafio14102020\/Desafio9\/assets\/sass\/layout\/_html\.scss}line{font-family:\000038}}
+  .nav__h1 {
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size: 25px;
+    color: white; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/oslap\/Desktop\/Clases\%20G4\/Clase\%2014\/Desafio14102020\/Desafio9\/assets\/sass\/layout\/_html\.scss}line{font-family:\0000315}}
+.menu {
+  position: relative;
+  width: 25%;
+  background-color: #bfbfbf; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/oslap\/Desktop\/Clases\%20G4\/Clase\%2014\/Desafio14102020\/Desafio9\/assets\/sass\/layout\/_html\.scss}line{font-family:\0000319}}
+  .menu__subt {
+    width: 75%;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+    display: inline-block;
+    position: relative;
+    background-color: white;
+    text-align: left; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/oslap\/Desktop\/Clases\%20G4\/Clase\%2014\/Desafio14102020\/Desafio9\/assets\/sass\/layout\/_html\.scss}line{font-family:\0000329}}
+.foot {
+  height: 25px;
+  text-align: center;
+  background-color: gray; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/oslap\/Desktop\/Clases\%20G4\/Clase\%2014\/Desafio14102020\/Desafio9\/assets\/sass\/layout\/_html\.scss}line{font-family:\0000333}}
+  .foot__p {
+    color: white; }
+
+/*# sourceMappingURL=main.css.map */

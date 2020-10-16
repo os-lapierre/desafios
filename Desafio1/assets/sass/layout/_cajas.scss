@@ -30,7 +30,7 @@ body {
     height: 100px;
     margin: auto;
     display: block;
-    box-sizing: border-box;
+    
     /* position: relative; */
     &__caja1{
         @extend %cajas;

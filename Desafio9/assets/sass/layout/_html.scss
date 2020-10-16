@@ -1,0 +1,36 @@
+body{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.nav{
+    background-color: black;
+    height: 50px;
+    &__h1{
+        padding-left: 10px;
+        padding-top: 10px;
+        font-size: 25px;
+        color: white;
+    }
+}
+.menu{
+    position: relative;
+    width: 25%;
+    background-color:  rgb(191, 191, 191);
+    &__subt{
+        width: 75%;
+        box-sizing: border-box;
+        display: inline-block;
+        position: relative;
+        background-color: white;
+        text-align: left;
+    }
+}
+
+.foot{
+    height: 25px;
+    text-align: center;
+    background-color: gray;
+    &__p{
+        color: white;
+    }
+}
