@@ -1,0 +1,96 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/oslap\/Desktop\/Clases\%20G4\/Clase\%2014\/Desafio14102020\/Desafio3\/assets\/sass\/layout\/_banderas\.scss}line{font-family:\000031}}
+.espana {
+  margin: 10px;
+  height: 200px;
+  width: 300px;
+  border: 2px solid black; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/oslap\/Desktop\/Clases\%20G4\/Clase\%2014\/Desafio14102020\/Desafio3\/assets\/sass\/layout\/_banderas\.scss}line{font-family:\000036}}
+  .espana__franja1 {
+    height: 50px;
+    width: 300px;
+    background-color: red; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/oslap\/Desktop\/Clases\%20G4\/Clase\%2014\/Desafio14102020\/Desafio3\/assets\/sass\/layout\/_banderas\.scss}line{font-family:\0000311}}
+  .espana__franja2 {
+    height: 100px;
+    width: 300px;
+    background-color: yellow; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/oslap\/Desktop\/Clases\%20G4\/Clase\%2014\/Desafio14102020\/Desafio3\/assets\/sass\/layout\/_banderas\.scss}line{font-family:\0000316}}
+  .espana__franja3 {
+    height: 50px;
+    width: 300px;
+    background-color: red; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/oslap\/Desktop\/Clases\%20G4\/Clase\%2014\/Desafio14102020\/Desafio3\/assets\/sass\/layout\/_banderas\.scss}line{font-family:\0000322}}
+.dina {
+  margin: 10px;
+  height: 200px;
+  width: 300px;
+  border: 2px solid black; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/oslap\/Desktop\/Clases\%20G4\/Clase\%2014\/Desafio14102020\/Desafio3\/assets\/sass\/layout\/_banderas\.scss}line{font-family:\0000327}}
+  .dina__rojo1 {
+    height: 90px;
+    width: 90px;
+    background-color: red; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/oslap\/Desktop\/Clases\%20G4\/Clase\%2014\/Desafio14102020\/Desafio3\/assets\/sass\/layout\/_banderas\.scss}line{font-family:\0000332}}
+  .dina__rojo2 {
+    height: 90px;
+    width: 190px;
+    margin-left: 110px;
+    margin-top: -90px;
+    background-color: red; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/oslap\/Desktop\/Clases\%20G4\/Clase\%2014\/Desafio14102020\/Desafio3\/assets\/sass\/layout\/_banderas\.scss}line{font-family:\0000339}}
+  .dina__rojo3 {
+    height: 90px;
+    width: 90px;
+    margin-top: 20px;
+    background-color: red; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/oslap\/Desktop\/Clases\%20G4\/Clase\%2014\/Desafio14102020\/Desafio3\/assets\/sass\/layout\/_banderas\.scss}line{font-family:\0000345}}
+  .dina__rojo4 {
+    height: 90px;
+    width: 190px;
+    margin-left: 110px;
+    margin-top: -90px;
+    background-color: red; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/oslap\/Desktop\/Clases\%20G4\/Clase\%2014\/Desafio14102020\/Desafio3\/assets\/sass\/layout\/_banderas\.scss}line{font-family:\0000353}}
+.emi {
+  margin: 10px;
+  height: 200px;
+  width: 300px;
+  border: 2px solid black; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/oslap\/Desktop\/Clases\%20G4\/Clase\%2014\/Desafio14102020\/Desafio3\/assets\/sass\/layout\/_banderas\.scss}line{font-family:\0000358}}
+  .emi__color1 {
+    height: 200px;
+    width: 75px;
+    background-color: red; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/oslap\/Desktop\/Clases\%20G4\/Clase\%2014\/Desafio14102020\/Desafio3\/assets\/sass\/layout\/_banderas\.scss}line{font-family:\0000363}}
+  .emi__color2 {
+    height: 66.66666666px;
+    width: 225px;
+    margin-left: 75px;
+    margin-top: -200px;
+    background-color: green; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/oslap\/Desktop\/Clases\%20G4\/Clase\%2014\/Desafio14102020\/Desafio3\/assets\/sass\/layout\/_banderas\.scss}line{font-family:\0000370}}
+  .emi__color3 {
+    height: 66.66666666px;
+    width: 225px;
+    margin-left: 75px;
+    margin-top: 66.66666666px;
+    background-color: black; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/oslap\/Desktop\/Clases\%20G4\/Clase\%2014\/Desafio14102020\/Desafio3\/assets\/sass\/layout\/_banderas\.scss}line{font-family:\0000378}}
+.jap {
+  margin: 10px;
+  height: 200px;
+  width: 300px;
+  border: 2px solid black; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/oslap\/Desktop\/Clases\%20G4\/Clase\%2014\/Desafio14102020\/Desafio3\/assets\/sass\/layout\/_banderas\.scss}line{font-family:\0000383}}
+  .jap__circulo {
+    height: 90px;
+    width: 90px;
+    margin-left: 100px;
+    margin-top: 55px;
+    background-color: red;
+    border-radius: 50%; }
+
+/*# sourceMappingURL=main.css.map */

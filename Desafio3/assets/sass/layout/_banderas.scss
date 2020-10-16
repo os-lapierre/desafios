@@ -1,0 +1,91 @@
+.espana{
+    margin: 10px;
+    height: 200px;
+    width: 300px;
+    border: 2px solid black;
+    &__franja1{
+        height: 50px;
+        width: 300px;
+        background-color: red;
+    }
+    &__franja2{
+        height: 100px;
+        width: 300px;
+        background-color: yellow;
+    }
+    &__franja3{
+        height: 50px;
+        width: 300px;
+        background-color: red;
+    }
+}
+.dina{
+    margin: 10px;
+    height: 200px;
+    width: 300px;
+    border: 2px solid black;
+    &__rojo1{
+        height: 90px;
+        width: 90px;
+        background-color: red;
+    }
+    &__rojo2{
+        height: 90px;
+        width: 190px;
+        margin-left: 110px;
+        margin-top: -90px;
+        background-color: red;
+    }
+    &__rojo3{
+        height: 90px;
+        width: 90px;
+        margin-top: 20px;
+        background-color: red;
+    }
+    &__rojo4{
+        height: 90px;
+        width: 190px;
+        margin-left: 110px;
+        margin-top: -90px;
+        background-color: red;
+    }
+}
+.emi{
+    margin: 10px;
+    height: 200px;
+    width: 300px;
+    border: 2px solid black;
+    &__color1{
+        height: 200px;
+        width: 75px;
+        background-color: red;
+    }
+    &__color2{
+        height: 66.66666666px;
+        width: 225px;
+        margin-left: 75px;
+        margin-top: -200px;
+        background-color: green;
+    }
+    &__color3{
+        height: 66.66666666px;
+        width: 225px;
+        margin-left: 75px;
+        margin-top: 66.66666666px;
+        background-color: black;
+    }
+}
+.jap{
+    margin: 10px;
+    height: 200px;
+    width: 300px;
+    border: 2px solid black;
+    &__circulo{
+        height: 90px;
+        width: 90px;
+        margin-left: 100px;
+        margin-top: 55px;
+        background-color: red;
+        border-radius: 50%;
+    }
+}
