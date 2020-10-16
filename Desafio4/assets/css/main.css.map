@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": ";AAAA,UAAW;EACP,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;;;AAEd,KAAM;EACF,gBAAgB,EAAE,OAAO;EACzB,OAAO,EAAE,IAAI;;EACb,gBAAa;IACT,IAAI,EAAE,IAAI;IACV,QAAQ,EAAE,QAAQ",
+"sources": ["../sass/layout/_lorem.scss"],
+"names": [],
+"file": "main.css"
+}
